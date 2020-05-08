@@ -1,0 +1,22 @@
+{
+  "name": "web1-ex-6",
+  "version": "1.0.0",
+  "description": "Web 1 Exercise 6",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CU-IXD/cuixd-web1-ex-6.git"
+  },
+  "author": "Phil Schanely <philschanely@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CU-IXD/cuixd-web1-ex-6/issues"
+  },
+  "homepage": "https://github.com/CU-IXD/cuixd-web1-ex-6#readme",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}

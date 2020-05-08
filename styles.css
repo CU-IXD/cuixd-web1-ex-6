@@ -1,0 +1,150 @@
+@import url(reset.css);
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700|Teko:500,600');
+
+__3__ {
+  color: #64A4A2;
+  font-weight: 400;
+  text-decoration: none;
+}
+.banner {
+  display: block;
+  width: 100%;
+  margin-bottom: 40px;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 62.5%;
+  color: #4A4A4A;
+  margin: 0 auto;
+  width: 1200px;
+}
+dd {
+  font-size: 1.6em;
+  line-height: 1.5625em;
+  font-weight: 300;
+  margin-bottom: 12px;
+  width: 50%;
+}
+dl {
+  display: flex;
+  flex-flow: row wrap;
+}
+dt {
+  font-size: 1.6em;
+  line-height: 1.5625em;
+  font-weight: 300;
+  margin-bottom: 12px;
+  width: 50%;
+}
+footer {
+  border-top: 2px solid #5C7C4B;
+  padding: 20px 0 0;
+  width: 550px;
+  margin: 25px auto;
+}
+footer p {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+__4__ {
+  font-family: "Teko", sans-serif;
+  font-size: 4.3em;
+  font-weight: 500;
+  text-align: center;
+  color: #5C7C4B;
+  text-transform: lowercase;
+  border-bottom: 2px solid #5C7C4B;
+  margin: 25px 0;
+  padding-bottom: 13px;
+}
+h2 a {
+  color: #5C7C4B;
+}
+header {
+  padding: 65px 25px 10px;
+}
+__6__ {
+  box-sizing: border-box;
+  margin-right: 20px;
+  width: 66%;
+}
+__7__ {
+  box-sizing: border-box;
+  margin-left: 20px;
+  width: 33%;
+}
+.hrs {
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+img {
+  max-width: 100%;
+}
+li {
+  font-size: 1.6em;
+  line-height: 1.5625em;
+  font-weight: 300;
+}
+main {
+  box-sizing: border-box;
+  padding: 25px;
+}
+.menu-orders {
+  display: flex;
+}
+.menu-orders .orders {
+  box-sizing: border-box;
+  width: 50%;
+  padding-left: 20px;
+}
+.menu-orders .menu {
+  box-sizing: border-box;
+  width: 50%;
+  padding-right: 20px;
+}
+nav {
+  margin-top: -6px;
+}
+__8__ {
+  color: #4A4A4A;
+  font-weight: 300;
+  display: block;
+  padding: 2px 5px;
+}
+nav .active {
+  border-color: #C2762E;
+}
+__12__ {
+  color: #C2762E;
+  font-weight: 700;
+}
+__9__ {
+  margin: 0 33px;
+  text-align: center;
+  font-size: 2.3em;
+  border-top: 3px solid transparent;
+}
+__10__ {
+  display: flex;
+  justify-content: center;
+}
+p {
+  font-size: 1.6em;
+  line-height: 1.5625em;
+  font-weight: 300;
+  margin-bottom: 25px;
+}
+__5__ {
+  display: flex;
+  flex-direction: row-reverse;
+}
+__11__ {
+  margin-top: 0;
+}
+strong {
+  font-style: italic;
+  font-weight: 600;
+  color: #C2762E;
+}
